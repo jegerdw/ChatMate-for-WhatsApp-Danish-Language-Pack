@@ -1,0 +1,24 @@
+{
+    "3BC-bx-4cd.title" = "Afspil lyd";
+    "785-8i-VCb.title" = "Brug TouchID";
+    "ArI-q5-rga.title" = "Underretning i dock";
+    "Dt2-4h-tVd.title" = Privatlivsindstillinger;
+    "Dvv-Qz-beX.title" = Brug;
+    "Foq-ov-j9g.title" = "Indstil adgangskode";
+    "GgO-jl-FUW.title" = Afbryd;
+    "H2Y-RK-4kE.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "I privatlivstilstand l\U00e5ses appen selv efter det tidspunkt, du v\U00e6lger.\n\nDette garanterer, at kun du kan l\U00e6se dine personlige beskeder.\n\nHvis du aktiverer fortrolighedstilstand, kan du indstille en adgangskode, som du kan l\U00e5se appen op med.";
+    "HNN-RP-bu0.title" = "Stealth-tilstand";
+    "KBQ-FY-TQN.ibShadowedToolTip" = "Vis kun chatindhold, mens musen er over det";
+    "KuF-Et-xlE.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "I stealth-tilstand kan appvinduet g\U00f8res delvist gennemsigtig.\n\nDette g\U00f8r det n\U00e6sten umuligt for nogen bag dig at l\U00e6se dine samtaler eller endda finde ud af, at du i \U00f8jeblikket bruger appen i stedet for f.eks. at arbejde.\n\nStealth-tilstand kan til enhver tid aktiveres eller deaktiveres med keyS-tastkombinationen.";
+    "Oii-BT-9zj.title" = "Vis forh\U00e5ndsvisning af beskeden";
+    "QmG-Dc-lXZ.title" = skrivebordsmeddelelser;
+    "YLV-LP-VZX.title" = "Underretninger i menulinjen";
+    "as2-WD-e04.title" = "Meddelelser i låsetilstand";
+    "csT-Na-Tbp.title" = "Vis kun chatindhold, mens musen er over det";
+    "dn2-ce-gDY.title" = Adgangskode;
+    "kdG-7W-oO7.title" = Indstil;
+    "lwS-P5-eeG.title" = "L\U00e5s efter";
+    "p7i-Tj-Rr4.title" = "Vis afsenders navn";
+    "sO0-TF-S0e.title" = Gennemsigtighed;
+    "wBj-tO-2Zq.title" = "Vis afsenders billede";
+}
